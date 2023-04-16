@@ -7,8 +7,7 @@
 - 🎓 &nbsp; Taking the Google Technical Support Fundamentals course
 - 🎓 &nbsp; Enrolling into college for a Computer Science degree
 - 🤔 &nbsp; Exploring new technologies and developing languages
-- 💼 &nbsp; Front-end/Back-end web developer.
-- 🌱 &nbsp; Enthusiast of Artificial Intelligence .
+
 
 <h3>🛠 Tech Stack</h3>
 
