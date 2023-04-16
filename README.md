@@ -17,12 +17,12 @@
 - 🛢 &nbsp; MySQL ish | Photoshop  | Visual Studio code | Git
 
 <br>
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=davidherring1998)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 </br>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
- -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
