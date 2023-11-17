@@ -13,7 +13,7 @@
 
 - 💻 &nbsp; HTML | CSS | Javascript | React 
 - 🌐 &nbsp; MongoDB | Express | Node | Bootstrap 
-- 🛢 &nbsp; MySQL ish | Photoshop  | Visual Studio code | Git
+- 🛢 &nbsp; MySQL | Canva  | Visual Studio code | Git
 
 <br>
 
