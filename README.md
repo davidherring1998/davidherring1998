@@ -10,9 +10,6 @@
 
 <br>
 
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidherring1998&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidherring1998&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
 
